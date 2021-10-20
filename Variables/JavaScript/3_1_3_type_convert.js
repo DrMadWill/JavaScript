@@ -43,9 +43,16 @@
 
     let string_object=String(variable_object);
     console.log("string_object type >> ",typeof string_object,"// string_object >> ",string_object);
-
+    
+    // -> Object Convert Number
     let number_object=Number(variable_object);
     console.log("number_object type >> ",typeof number_object,"// number_object >> ",number_object);
+
+
+    // -> Object(Array) Convert String
+    let variable_array=["salam","salam","deyis"]
+    let boolean_array=Boolean(variable_array)
+    console.log(boolean_array)
 
 
 
