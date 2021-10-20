@@ -8,5 +8,7 @@
 
 - My Research in JavaScript 
     - Variables
+    - Datatype
+
     
 
