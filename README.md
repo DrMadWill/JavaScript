@@ -11,7 +11,8 @@
         - Variables
         - Datatype
         - Type Convert
-        
+    - Operators
+    
 
     
 
