@@ -28,7 +28,22 @@
         // ay
         console.log("getMonth() - ay - >> ",date.getMinutes());
 
-    
+
+
+    //uygulama
+
+    let dtA=new Date('1/1/1990');
+
+    let getOfDate=dtA.getDate();
+
+    dtA.setDate(getOfDate-1)
+
+    console.log(dtA)
+
+
+    let birthDay=new Date().getFullYear()-dtA.getFullYear();
+
+    console.log(birthDay)
 
 
 
