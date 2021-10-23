@@ -13,6 +13,9 @@
         - [Type Convert](https://github.com/DrMadWill/JavaScript/blob/main/Variables/JavaScript/3_1_3_type_convert.js)
     - Operators
         - [Operators](https://github.com/DrMadWill/JavaScript/blob/main/Operators/JavaScripts/4_1_1_operators.js)
+    - Methods
+        - Date&Time Method
+        
 
 
     
