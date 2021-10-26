@@ -6,7 +6,8 @@
     - _b_ ders başlığının sırası
     - _c_ Dersin sırası
 
-- My Research in JavaScript 
+####  My Research in JavaScript 
+
     - Variables
         - [Variables](https://github.com/DrMadWill/JavaScript/blob/main/1_Variables/JavaScript/1_1_1_variable_script.js)
         - [Datatype](https://github.com/DrMadWill/JavaScript/blob/main/1_Variables/JavaScript/2_1_2_datatype.js)
