@@ -14,9 +14,9 @@
     - Operators
         - [Operators](https://github.com/DrMadWill/JavaScript/blob/main/Operators/JavaScripts/4_1_1_operators.js)
     - Methods
-        - Date&Time Method
-        - Numbers Methods
-        - String Methods
+        - [Date&Time Method](https://github.com/DrMadWill/JavaScript/blob/main/3_Methods/JavaScripts/5_3_1_DateTimeMethods.js)
+        - [Numbers Methods](https://github.com/DrMadWill/JavaScript/blob/main/3_Methods/JavaScripts/6_3_2_Number.js)
+        - [String Methods](https://github.com/DrMadWill/JavaScript/blob/main/3_Methods/JavaScripts/7_3_3_String.js)
         
 
 
