@@ -41,9 +41,13 @@
     console.log(dtA)
 
 
+
     let birthDay=new Date().getFullYear()-dtA.getFullYear();
 
     console.log(birthDay)
+
+
+
 
 
 
