@@ -15,6 +15,7 @@
         - [Operators](https://github.com/DrMadWill/JavaScript/blob/main/Operators/JavaScripts/4_1_1_operators.js)
     - Methods
         - Date&Time Method
+        - Numbers
         
 
 
