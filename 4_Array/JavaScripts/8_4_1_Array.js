@@ -2,7 +2,7 @@
 // Array
 
     let array= ["Ideal","Creat World","Way","Mad Will",23,5,[25,36]];
-    let age=[2021,2012,1998,1995,1925]
+    let age=[2021,2012,1998,1995,19,1,2,1925]
 
     // get array item
     // console.log(array[1])
@@ -28,37 +28,48 @@
     // Reserve
     // array.reverse();
 
-    // Sort
-    // array.sort();
+    // Sort herfi sira ile siralayir;
+    array.sort();
+    age.sort();
+    console.log(age)
+    function sorts(a,b){
+        if (a>b)return 1;
+        if (a==b) return 0;
+        if (a<b)return -1;
+    }
+
+    console.log(age.sort(sorts))
 
     // Concat
     // let all = array.concat(age);
     // console.log(all);
 
     // Splice (start|remove|add)
-    array.splice(0,2,"add","end")
+    // array.splice(0,2,"add","end")
 
-    // Find
+    // // Find 
 
-    function over_18(year_item){
-        let age=new Date().getFullYear()-year_item;
-        return age>18
-    }
-        // 18 > Frist value feedback
-        let val=age.find(over_18)
+    // function over_18(year_item){
+    //     let age=new Date().getFullYear()-year_item;
+    //     return age>18
+    // }
+    //     // 18 > Frist value feedback
+    //     let val=age.find(over_18)
 
-    // Filtre
-         val=age.filter(over_18)
+    // // Filtre
+    //      val=age.filter(over_18)
 
-    console.log(val);
+    // console.log(val);
 
-
-
-
+    // 
 
 
 
 
-console.log(array)
-console.log(array.length)
-console.log(typeof array)
+
+
+
+
+// console.log(array)
+// console.log(array.length)
+// console.log(typeof array)

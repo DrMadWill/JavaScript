@@ -19,8 +19,9 @@
     - [Numbers Methods](https://github.com/DrMadWill/JavaScript/blob/main/3_Methods/JavaScripts/6_3_2_Number.js)
     - [String Methods](https://github.com/DrMadWill/JavaScript/blob/main/3_Methods/JavaScripts/7_3_3_String.js)
 - Array
-    - Array
-
+    - [Array]()
+- Conditional expression
+    - Conditional expression
 
     
 
