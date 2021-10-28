@@ -25,7 +25,8 @@
 - Function
     - Function
     - Window Object
-    
+    - Scops
+
 
     
 
