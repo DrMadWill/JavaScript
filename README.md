@@ -24,6 +24,8 @@
     - Conditional expression
 - Function
     - Function
+    - Window Object
+    
 
     
 
