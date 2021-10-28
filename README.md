@@ -26,6 +26,9 @@
     - Function
     - Window Object
     - Scops
+- Dom
+    - Document Object Model
+    
 
 
     
