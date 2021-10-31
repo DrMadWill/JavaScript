@@ -31,6 +31,7 @@
     - Selecting Single Elements
     - Selecting Multiple Elements
     - Traversing the Dom
+    - Create Element
     
 
 
