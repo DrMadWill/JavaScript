@@ -30,7 +30,7 @@
     - Document Object Model
     - Selecting Single Elements
     - Selecting Multiple Elements
-    - 
+    - Traversing the Dom
     
 
 
