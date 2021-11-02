@@ -32,6 +32,7 @@
     - Selecting Multiple Elements
     - Traversing the Dom
     - Create Element
+    - Remove Element
     
 
 
