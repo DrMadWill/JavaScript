@@ -33,6 +33,8 @@
     - Traversing the Dom
     - Create Element
     - Remove Element
+- Event 
+    - Event Listeners
     
 
 
