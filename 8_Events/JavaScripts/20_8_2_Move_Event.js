@@ -29,7 +29,16 @@ const ul = document.querySelector('#task-list');
     // //** Mouse Out -> Include element belonging 
     // ul.addEventListener('mouseout',eventHandler)
 
+    //** Mouse Move 
+    ul.addEventListener('mousemove',eventHandler)
+
+    const h5 = document.querySelector('h5');
+    
+
     function eventHandler(event){
         console.log(`event type : ${event.type}`);
+
+        h5.textContent=`Mouse X: ${event.offsetX} Y: ${event.offsetY}`
+
         event.preventDefault()
     }
