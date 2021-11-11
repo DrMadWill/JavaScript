@@ -36,6 +36,8 @@
 - Event 
     - Event Listeners
     - Move Events
+    - Keyboard Events
+    - Event Bubbling and Capturing
     
 
 
