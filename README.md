@@ -38,6 +38,9 @@
     - Move Events
     - Keyboard Events
     - Event Bubbling and Capturing
+- Local & Session Storage
+    - Local Storage
+
     
 
 
