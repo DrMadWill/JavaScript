@@ -40,6 +40,11 @@
     - Event Bubbling and Capturing
 - Local & Session Storage
     - Local Storage
+- ToDo List App
+    - Create App Body
+    - Add Item
+    - Delete Item
+    - Load Item
 
     
 
