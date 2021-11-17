@@ -45,6 +45,10 @@
     - Add Item
     - Delete Item
     - Load Item
+    - Using Storage
+- Slider App
+    - Creating App Body
+    - 
 
     
 
