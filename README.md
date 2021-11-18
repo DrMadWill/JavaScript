@@ -21,11 +21,11 @@
 - Array
     - [Array](https://github.com/DrMadWill/JavaScript/blob/main/5_Conditional_expression/JavaScripts/9_5_1_Conditional_expression.js)
 - Conditional expression
-    - Conditional expression
+    - [Conditional expression](https://github.com/DrMadWill/JavaScript/blob/main/5_Conditional_expression/JavaScripts/9_5_1_Conditional_expression.js)
 - Function
-    - Function
-    - Window Object
-    - Scops
+    - [Function](https://github.com/DrMadWill/JavaScript/blob/main/6_Function/JavaScripts/10_6_1_Funciton.js)
+    - [Window Object](https://github.com/DrMadWill/JavaScript/blob/main/6_Function/JavaScripts/11_6_2_WindowObj.js)
+    - [Scops](https://github.com/DrMadWill/JavaScript/blob/main/6_Function/JavaScripts/12_6_3_Scops.js)
 - Dom
     - [Document Object Model](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/13_7_1_Dom.js)
     - [Selecting Single Elements](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/14_7_2_Selcet_Single.js)
