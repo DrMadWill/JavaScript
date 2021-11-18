@@ -47,8 +47,10 @@
     - Load Item
     - Using Storage
 - Slider App
-    - Creating App Body
-    - 
+    - [Creating App Body](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/HTML/index.html)
+    - [Data Loading](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/28_11_2_Image_Loading.js)
+    - [Slider Controller](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/29_11_3_Slider_Controller.js)
+    - [Slider Duration](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js)
 
     
 
