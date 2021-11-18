@@ -27,12 +27,12 @@
     - Window Object
     - Scops
 - Dom
-    - Document Object Model
-    - Selecting Single Elements
-    - Selecting Multiple Elements
-    - Traversing the Dom
-    - Create Element
-    - Remove Element
+    - [Document Object Model](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/13_7_1_Dom.js)
+    - [Selecting Single Elements](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/14_7_2_Selcet_Single.js)
+    - [Selecting Multiple Elements](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/15_7_3_Select_Multiple_elemnt.js)
+    - [Traversing the Dom](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/16_7_4_Traversing_the_Dom.js)
+    - [Create Element](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/17_7_5_Creating_Element.js)
+    - [Remove Element](https://github.com/DrMadWill/JavaScript/blob/main/7_Dom/JavaScripts/18_7_6_Remove_Elements.js)
 - Event 
     - [Event Listeners](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/19_8_1_EventListeners.js)
     - [Mouse Events](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/20_8_2_Move_Event.js)
