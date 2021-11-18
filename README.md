@@ -54,7 +54,8 @@
     - [Slider Duration](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js)
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/11_Slider_App/Silder_App.md)
 
-    
+- JQuery
+ - 
 
 
     
