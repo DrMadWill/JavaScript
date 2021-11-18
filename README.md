@@ -34,12 +34,12 @@
     - Create Element
     - Remove Element
 - Event 
-    - Event Listeners
-    - Move Events
-    - Keyboard Events
-    - Event Bubbling and Capturing
+    - [Event Listeners](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/19_8_1_EventListeners.js)
+    - [Mouse Events](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/20_8_2_Move_Event.js)
+    - [Keyboard Events](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/21_8_3_Keyboard_Event.js)
+    - [Event Bubbling and Capturing](https://github.com/DrMadWill/JavaScript/blob/main/8_Events/JavaScripts/21_8_4_Event_Bubnling.js)
 - Local & Session Storage
-    - Local Storage
+    - [Local Storage](https://github.com/DrMadWill/JavaScript/blob/main/9_Local_and_Session_Storage/JavaScripts/22_9_1_Local_and_Session_Storage.js)
 - ToDo List App
     - [Create App Body](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_1_Create_App/index.html)
     - [Add Item](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_2_Add_List/23_9_2_Add_List.js)
