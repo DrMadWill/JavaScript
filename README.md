@@ -56,7 +56,8 @@
 
 - JQuery
     - [Referance Link](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/31_12_1_JQuery_Referance.html)
-        - [My Research](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#referance)
-
+        - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#referance)
+    - Selectors
+        - My Documatation
     
 
