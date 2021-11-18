@@ -1,6 +1,19 @@
-// if/else 
+//* Conditional Expression
+    function cand(isAge){
+        return (isAge ? 25:30)
+    }
+    
+    console.log(cand(true))
+    console.log(cand(false))
+    
+    
+    let age=25;
+    
+    let age_name = (age>18)? "Adult":"Teenager";
+    
+    console.log(age_name)
 
-
+// *if/else 
 
     // let id;
 
@@ -12,7 +25,7 @@
     //     console.log(`id : ${id}`)
     // }
 
-// switch
+//* switch
 
     // let category=""
 
@@ -59,16 +72,4 @@
 //     console.log(item)
 // })
 
-function cand(isAge){
-    return (isAge ? 25:30)
-}
 
-console.log(cand(true))
-console.log(cand(false))
-
-
-let age=25;
-
-let age_name = (age>18)? "Adult":"Teenager";
-
-console.log(age_name)

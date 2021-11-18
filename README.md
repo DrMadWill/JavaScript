@@ -55,7 +55,7 @@
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/11_Slider_App/Silder_App.md)
 
 - JQuery
- - 
+    -  
 
 
     
