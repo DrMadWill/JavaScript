@@ -19,13 +19,14 @@
 ***
 
 - Mostly Use Methods:
-    - >  _get_ selector daxilindəki informasiyani gətirir. _set_ method daxilinə yazılan informasiya ilə həmin informasiyanını düzənləyir.
+    - >  **_get_** selector daxilindəki informasiyani gətirir. **_set_** method daxilinə yazılan informasiya ilə həmin informasiyanını düzənləyir.
     - `css()`
-    - `text()` => _get_,_set_ ->  bütün mətinləri 
-    - `val()` => _get_,_set_ -> `value`- dəki iformasiyanı 
-    - `attr()` => _get_,_set_ -> `attribute` daxildəki informasiyani  
-    - `html()` => _get_ _set_ -> `HTML` təqlərni (mətin şəklində) 
-    - `addClass()` => Selector daxilinə method içərisinə yazılan Class-ı əlavə edir
-    - `removeClass()` => Bütün Class-ları silir və ya method daxilinə yazılan clası silir.
-    - `toggleClass()` => yazılan Class-lar varsa silir yoxdursa əlvə edir.
-    - `append()` => method daxilin' yazılan teqləri selector daxilinə əlvə edir.
+    - `text()` => _get_,_set_ ->  bütün [mətinləri](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L2)
+    - `val()` => _get_,_set_ -> [`value`- dəki iformasiyanı](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L9) 
+    - `attr()` => _get_,_set_ -> [`attribute` daxildəki informasiyani](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L32)  
+    - `html()` => _get_ _set_ -> [`HTML` təqlərni (mətin şəklində)](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L37) 
+    - `addClass()` => Selector daxilinə method içərisinə yazılan Class-ı [əlavə edir](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L19)
+    - `removeClass()` => [Bütün Class-ları silir və ya method daxilinə yazılan clası silir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L22)
+    - `toggleClass()` =>[yazılan Class-lar varsa silir yoxdursa əlvə edir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L25)
+    - `append()` => [method daxilinə yazılan teqləri selector daxilinə əlvə edir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L28)
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js)

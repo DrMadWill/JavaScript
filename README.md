@@ -62,6 +62,6 @@
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#selectors)
     - [Styling Content](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/33_12_3_Styling_Content.html#L25)
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#styling-content)
-    - Methods
-        - My Documatation
+    - [Methods](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js)
+        - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#methods)
 
