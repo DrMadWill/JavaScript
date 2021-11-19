@@ -43,4 +43,3 @@ val = 3;
 img.setAttribute('src',data[val].image);
 title.textContent = data[val].name;
 link.setAttribute('src',data[val].link);
-

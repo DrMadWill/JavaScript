@@ -1,13 +1,14 @@
 # Learning JavaScript
 
 ## Fayl strukturunun izahi
+***
 - a_b_c_fayl.js
     - _a_ ümumi sıra
     - _b_ ders başlığının sırası
     - _c_ Dersin sırası
 
 ##  My Research in JavaScript 
-
+***
 - Variables
     - [Variables](https://github.com/DrMadWill/JavaScript/blob/main/1_Variables/JavaScript/1_1_1_variable_script.js)
     - [Datatype](https://github.com/DrMadWill/JavaScript/blob/main/1_Variables/JavaScript/2_1_2_datatype.js)
@@ -59,5 +60,7 @@
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#referance)
     - [Selectors](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/32_12_2_Selectors.html)
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#selectors)
+    - Styling Content
+        - My Documatation
     
 
