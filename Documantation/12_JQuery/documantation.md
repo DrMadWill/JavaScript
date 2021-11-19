@@ -14,5 +14,18 @@
 ### Styling Content
 *** 
 > `selectors.css("property","value")` və ya ` let a={width:25px,height:25px}  selectors.css(a)`  bu şəkildə təyin edilmiş valueya style əlavə edirik
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/33_12_3_Styling_Content.html#L25)
+### Methods
+***
 
-
+- Mostly Use Methods:
+    - >  _get_ selector daxilindəki informasiyani gətirir. _set_ method daxilinə yazılan informasiya ilə həmin informasiyanını düzənləyir.
+    - `css()`
+    - `text()` => _get_,_set_ ->  bütün mətinləri 
+    - `val()` => _get_,_set_ -> `value`- dəki iformasiyanı 
+    - `attr()` => _get_,_set_ -> `attribute` daxildəki informasiyani  
+    - `html()` => _get_ _set_ -> `HTML` təqlərni (mətin şəklində) 
+    - `addClass()` => Selector daxilinə method içərisinə yazılan Class-ı əlavə edir
+    - `removeClass()` => Bütün Class-ları silir və ya method daxilinə yazılan clası silir.
+    - `toggleClass()` => yazılan Class-lar varsa silir yoxdursa əlvə edir.
+    - `append()` => method daxilin' yazılan teqləri selector daxilinə əlvə edir.
