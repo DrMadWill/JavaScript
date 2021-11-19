@@ -60,7 +60,7 @@
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#referance)
     - [Selectors](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/32_12_2_Selectors.html)
         - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#selectors)
-    - Styling Content
-        - My Documatation
+    - [Styling Content](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/33_12_3_Styling_Content.html#L25)
+        - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#styling-content)
     
 
