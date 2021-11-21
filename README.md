@@ -12,7 +12,7 @@
 ### Slider App
 > Sadəcə _JavaScript_-dən istfadə edərək sadə _Slider_ yazmağa çalışdım.Burda _data_ olaraq  göstərilən [`data`](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L2) obyecti _DataBases_-dən gələn məlumatları göstərir._Slider_-da default olaraq rəsimləri ardıcıl göstərir. Tələbdən aslı olarq [_random_ etmək](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L44) olar. _Controller_-lərin üzərinə gələn zaman [_Slider_ dayanır](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L53).   
 - [Preview](https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010)
-- [Code Documatation](https://github.com/DrMadWill/JavaScript#slider-app)
+- [Code Documatation](https://github.com/DrMadWill/JavaScript#slider-app-1)
 - **App**-in əsas xususiyyətləri:
     - `setInterval`-dan istfadə edilib.
     - `clearInterval`-dan istfadə edilib.
