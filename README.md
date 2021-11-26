@@ -84,7 +84,7 @@
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#methods)
 - [Click Evevt](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/35_12_5_ClickEvent.js#L2)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#click-event)
-- [Change Event]()
-    - [My Documantation]()
+- [Change Event](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/36_12_6_Change_Event.js)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#change-event)
 
     

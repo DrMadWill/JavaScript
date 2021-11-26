@@ -57,3 +57,4 @@ $(function(){
 ### Change Event 
 ***
 > `.change()` bu method vastəsi ilə `selector` daxilindəki dəşiklik olan zaman bu dəşikliyi tutmaq olur.
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/36_12_6_Change_Event.js)
