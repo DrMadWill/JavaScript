@@ -15,9 +15,9 @@
 *** 
 > `selectors.css("property","value")` və ya ` let a={width:25px,height:25px}  selectors.css(a)`  bu şəkildə təyin edilmiş valueya style əlavə edirik
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/33_12_3_Styling_Content.html#L25)
+
 ### Methods
 ***
-
 - Mostly Use Methods:
     - >  **_get_** selector daxilindəki informasiyani gətirir. **_set_** method daxilinə yazılan informasiya ilə həmin informasiyanını düzənləyir.
     - `css()`
@@ -30,3 +30,19 @@
     - `toggleClass()` =>[yazılan Class-lar varsa silir yoxdursa əlvə edir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L25)
     - `append()` => [method daxilinə yazılan teqləri selector daxilinə əlvə edir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L28)
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js)
+
+```
+$(document).ready(function(){
+    console.log("ready")
+})
+
+və ya
+
+$(function(){
+    console.log("ready")
+})
+
+
+```
+
+> yuxarıda yazılan kod ancaq bütün kodları yükləndikdən sonra işləyəcək.

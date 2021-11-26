@@ -3,7 +3,7 @@
 ***
 ### To Do App 
 > Bu **app**-də listə itemləri əlavə edə bilirik və tək-tək və ya hamsı silə bilirik. Yazılan _data_-lar `localStorage`-ə yazılır. Yəni browser söndürülmədiyi müdətdə _data_-lar saxlanır, _reload_ edilsə belə.
-- [Preview](https://codepen.io/Dr-MadWill/pen/eYEoZPe)
+- [Preview](https://onlinegdb.com/dv9JU4MGr)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#todo-list-app)
 - **App**-in əsas xususiyyətləri:
     - `localStorage` istifadə 
@@ -82,5 +82,7 @@
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#styling-content)
 - [Methods](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#methods)
+- [Click Evevt]()
+    - [My Documatation]()
 
     
