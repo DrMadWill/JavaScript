@@ -90,5 +90,6 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
 - [Slide/Fade Effects](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/38_12_8_Slide_Fade_Effect.js)
     - [My Documentation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#fadeslide-effects)
-
+- [Animate](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/39_12_9_Aimate.html#L33)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#animate)
     

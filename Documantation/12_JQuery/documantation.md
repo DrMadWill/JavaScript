@@ -85,3 +85,4 @@ $(function(){
 ```
 animate({css property and value},millisaniyye,funcition(){sonda olcaq hasisə})
 ```
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/39_12_9_Aimate.html#L33)
