@@ -60,12 +60,14 @@ $(function(){
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/36_12_6_Change_Event.js)
 
 ### Show/Hide Effects 
+***
 > `hide()` `display`-ni `none` edir .
 > `show()` `display`-ni əvvəlki vəziyyətniə qaytarır edir 
 > `toggle()` `display`-ə `none` əlavə edib çıxarır.
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
 
 ### Fade/Slide Effects
+***
 > `fade` methodlarının icrası zamanı `opacity` 0 və 1 arası dəyişərək icra olunur
 - `fadeIn()` methodu `opacity`-ni 0 və 1 çevirərək `display`-dəki `none`-ı çıxarır
 - `fadeOut()` methodu `opacity`-ni 1 və 0 çevirərək `display`-dəki `none`-ı əlavə edir.
@@ -76,3 +78,10 @@ $(function(){
 - `fadeDown()` yuxarıdan aşağı görünür 
 - `fadeToggle()` `fadeUp()`-sa `fadeDown()` icra olunur və ya tərsi.
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/38_12_8_Slide_Fade_Effect.js)
+
+### Animate
+***
+> `.animate()` funksiyası vastəsi ilə animasyonlari rahat yartmaq olur.
+```
+animate({css property and value},millisaniyye,funcition(){sonda olcaq hasisə})
+```
