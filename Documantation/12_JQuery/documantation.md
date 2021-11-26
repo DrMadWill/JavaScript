@@ -31,6 +31,7 @@
     - `append()` => [method daxilinə yazılan teqləri selector daxilinə əlvə edir.](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js#L28)
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/34_12_4_Method.js)
 
+
 ```
 $(document).ready(function(){
     console.log("ready")
@@ -46,3 +47,10 @@ $(function(){
 ```
 
 > yuxarıda yazılan kod ancaq bütün kodları yükləndikdən sonra işləyəcək.
+
+### Click Event
+***
+> `.click()` methodunun daxilə `click` hasisəsində nə baş verəcəyni yazıırıq.
+> Bir `selector` daxilində həmin `selector` ilə əlaqədar iş görmək istədikdə bunu üçün `this` keydən istifadə edilir.
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/35_12_5_ClickEvent.js#L2)
+
