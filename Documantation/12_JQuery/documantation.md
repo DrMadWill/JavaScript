@@ -65,3 +65,13 @@ $(function(){
 > `toggle()` `display`-ə `none` əlavə edib çıxarır.
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
 
+### Fade/Slide Effects
+> `fade` methodlarının icrası zamanı `opacity` 0 və 1 arası dəyişərək icra olunur
+- `fadeIn()` methodu `opacity`-ni 0 və 1 çevirərək `display`-dəki `none`-ı çıxarır
+- `fadeOut()` methodu `opacity`-ni 1 və 0 çevirərək `display`-dəki `none`-ı əlavə edir.
+- `fadeToggle()` `fadeIn()`-disə `fadeOut()` edir və əksidə doğrudur.
+- `fadeTo()` `opacity`-sini methoda təyin edilən dəyərə gətirmək üçün istifadə edilir.
+> `slide` methodları yuxarıdan aşağı və ya aşağıdan yuxarı görünməz hala gəlməsi ilə əlaqədardı.
+- `fadeUp()` aşğıdan yuxarı görünməz
+- `fadeDown()` yuxarıdan aşağı görünür 
+- `fadeToggle()` `fadeUp()`-sa `fadeDown()` icra olunur və ya tərsi.
