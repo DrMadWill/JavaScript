@@ -54,3 +54,6 @@ $(function(){
 > Bir `selector` daxilində həmin `selector` ilə əlaqədar iş görmək istədikdə bunu üçün `this` keydən istifadə edilir.
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/35_12_5_ClickEvent.js#L2)
 
+### Change Event 
+***
+> `.change()` bu method vastəsi ilə `selector` daxilindəki dəşiklik olan zaman bu dəşikliyi tutmaq olur.
