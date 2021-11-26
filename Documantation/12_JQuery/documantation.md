@@ -58,3 +58,8 @@ $(function(){
 ***
 > `.change()` bu method vastəsi ilə `selector` daxilindəki dəşiklik olan zaman bu dəşikliyi tutmaq olur.
 - [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/36_12_6_Change_Event.js)
+
+### Show/Hide Effects 
+> `hide()` `display`-ni `none` edir .
+> `show()` `display`-ni əvvəlki vəziyyətniə qaytarır edir 
+> `toggle()` `display`-ə `none` əlavə edib çıxarır.
