@@ -86,5 +86,7 @@
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#click-event)
 - [Change Event](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/36_12_6_Change_Event.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#change-event)
+- [Show/Hide Effects](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/37_12_7_Show_Hide_Effect.js#L2)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
 
     

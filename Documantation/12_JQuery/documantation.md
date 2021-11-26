@@ -63,3 +63,5 @@ $(function(){
 > `hide()` `display`-ni `none` edir .
 > `show()` `display`-ni əvvəlki vəziyyətniə qaytarır edir 
 > `toggle()` `display`-ə `none` əlavə edib çıxarır.
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
+
