@@ -88,5 +88,7 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#change-event)
 - [Show/Hide Effects](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/37_12_7_Show_Hide_Effect.js#L2)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#showhide-effects)
+- [Slide/Fade Effects](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/38_12_8_Slide_Fade_Effect.js)
+    - [My Documentation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#fadeslide-effects)
 
     

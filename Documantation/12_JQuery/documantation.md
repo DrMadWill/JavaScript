@@ -75,3 +75,4 @@ $(function(){
 - `fadeUp()` aşğıdan yuxarı görünməz
 - `fadeDown()` yuxarıdan aşağı görünür 
 - `fadeToggle()` `fadeUp()`-sa `fadeDown()` icra olunur və ya tərsi.
+- [Code](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/38_12_8_Slide_Fade_Effect.js)
