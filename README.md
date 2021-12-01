@@ -1,5 +1,5 @@
 # Learning JavaScript
-## My JavaScript App
+## My JavaScript App <a href="https://drmadwill.github.io/JavaScript/" target="blank"> <img src="https://i.postimg.cc/6Q7k4DHr/app.png" width="100" align="right" ></a>
 ***
 ### To Do App <a href="https://codepen.io/Dr-MadWill/pen/eYEoZPe" target="blank"> <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="250" align="right" ></a>
 > Bu **app**-də listə itemləri əlavə edə bilirik və tək-tək və ya hamsı silə bilirik. Yazılan _data_-lar `localStorage`-ə yazılır. Yəni browser söndürülmədiyi müdətdə _data_-lar saxlanır, _reload_ edilsə belə.
