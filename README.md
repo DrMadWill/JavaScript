@@ -1,7 +1,7 @@
 # Learning JavaScript
 ## My JavaScript App
 ***
-### To Do App 
+### To Do App <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="250" align="right" >
 > Bu **app**-də listə itemləri əlavə edə bilirik və tək-tək və ya hamsı silə bilirik. Yazılan _data_-lar `localStorage`-ə yazılır. Yəni browser söndürülmədiyi müdətdə _data_-lar saxlanır, _reload_ edilsə belə.
 - [Preview](https://onlinegdb.com/dv9JU4MGr)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#todo-list-app)
@@ -9,7 +9,7 @@
     - `localStorage` istifadə 
     - _RemoveElement_-dən isfadə
     - _AddElement_-dən istfadə
-### Slider App
+### Slider App <img src="https://i.postimg.cc/2yWNp4fs/slid.png" width="250" align="right" >
 > Sadəcə _JavaScript_-dən istfadə edərək sadə _Slider_ yazmağa çalışdım.Burda _data_ olaraq  göstərilən [`data`](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L2) obyecti _DataBases_-dən gələn məlumatları göstərir._Slider_-da default olaraq rəsimləri ardıcıl göstərir. Tələbdən aslı olarq [_random_ etmək](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L44) olar. _Controller_-lərin üzərinə gələn zaman [_Slider_ dayanır](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L53).   
 - [Preview](https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#slider-app-1)
@@ -93,4 +93,4 @@
 - [Animate](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/39_12_9_Aimate.html#L33)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/12_JQuery/documantation.md#animate)
 - [Messange Box App](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/40_12_10_MessageBox.html#L47)
-- [Back To Top App]()
+- [Back To Top App](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/41_12_11_Back_To_top.html#L246)
