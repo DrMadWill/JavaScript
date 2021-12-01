@@ -1,15 +1,15 @@
 # Learning JavaScript
 ## My JavaScript App
 ***
-### To Do App <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="250" align="right" >
+### To Do App <a href="https://codepen.io/Dr-MadWill/pen/eYEoZPe" target="blank"> <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="250" align="right" ></a>
 > Bu **app**-də listə itemləri əlavə edə bilirik və tək-tək və ya hamsı silə bilirik. Yazılan _data_-lar `localStorage`-ə yazılır. Yəni browser söndürülmədiyi müdətdə _data_-lar saxlanır, _reload_ edilsə belə.
-- [Preview](https://onlinegdb.com/dv9JU4MGr)
+- [Preview](https://codepen.io/Dr-MadWill/pen/eYEoZPe)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#todo-list-app)
 - **App**-in əsas xususiyyətləri:
     - `localStorage` istifadə 
     - _RemoveElement_-dən isfadə
     - _AddElement_-dən istfadə
-### Slider App <img src="https://i.postimg.cc/2yWNp4fs/slid.png" width="250" align="right" >
+### Slider App <a href="https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010" target="blank"> <img src="https://i.postimg.cc/2yWNp4fs/slid.png" width="250" align="right" ></a>
 > Sadəcə _JavaScript_-dən istfadə edərək sadə _Slider_ yazmağa çalışdım.Burda _data_ olaraq  göstərilən [`data`](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L2) obyecti _DataBases_-dən gələn məlumatları göstərir._Slider_-da default olaraq rəsimləri ardıcıl göstərir. Tələbdən aslı olarq [_random_ etmək](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L44) olar. _Controller_-lərin üzərinə gələn zaman [_Slider_ dayanır](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L53).   
 - [Preview](https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#slider-app-1)
