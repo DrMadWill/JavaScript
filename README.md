@@ -17,6 +17,13 @@
     - `setInterval`-dan istfadə edilib.
     - `clearInterval`-dan istfadə edilib.
     - _radom_ xususiyyəti əlavə edib.
+### Form Validation App <a href="https://codepen.io/Dr-MadWill/pen/MWEYBGg" target="blank"> <img src="https://i.postimg.cc/dVh6TpqG/validation-modified.png" width="250" align="right" ></a>
+> Validation çox zaman hazır kod blokları və ya  _Packages_-dən istifadə edilir. Burada məqsəd hazır kod bloklarında istifadə etmədən öz şərtlərmizi qoyaraq bu hadisəni necə sadə yolla həyata keçrə biləcəyimizi yazmaqdır.
+- [Preveiw](https://codepen.io/Dr-MadWill/pen/MWEYBGg)
+- [Code Documatation](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/42_12_11_Form_Validation.html)
+- **App**-ın əsas xususiyyətləri:
+    - _JQuery_-dən istifadə edilib.
+
 
 ## Fayl strukturunun izahi
 ***
