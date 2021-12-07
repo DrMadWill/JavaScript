@@ -116,4 +116,4 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#objectcreate)
 - [ProtoTypal Inheritance](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/45_13_3_ProtoTypalConstroct.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#prototypal-inheritance)
-
+- Bult-in Constructor
