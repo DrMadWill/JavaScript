@@ -34,6 +34,7 @@
 
     let dtA=new Date('1/1/1990');
 
+    
     let getOfDate=dtA.getDate();
 
     dtA.setDate(getOfDate-1)

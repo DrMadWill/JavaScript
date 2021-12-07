@@ -58,12 +58,44 @@ class Student{
 }
 
 let student2=new Student("15b","Sakura",15); // instance
-console.log(student2)
-console.log(student2.BirthYear())
+// console.log(student2)
+// console.log(student2.BirthYear())
+
+//** Inheritance
+
+class Person {
+    constructor(name,yearOfBirth,job){
+        this.name=name
+        this.yearOfBirth=yearOfBirth
+        this.job=job
+
+        this.CaculateAge=function(){
+            let date =new Date
+            return date.getFullYear() - this.yearOfBirth
+        }
+    }
+}
+
+
+Person.prototype.GetName=function(){
+    return this.name
+}
+
+Person.prototype.lastName="Domation of Road"
 
 
 
+let mad = new Person("Mad",15,"Developer")
+let will = new Person("Will",21,"Wayer")
 
 
+console.log(mad)
+console.log(mad.lastName)
+console.log(mad.CaculateAge())
 
+console.log("*********************")
+
+console.log(will)
+console.log(will.lastName)
+console.log(will.GetName())
 
