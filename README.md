@@ -110,4 +110,5 @@
 ### Object Oriented Programming
 - [Object and Constroctor](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/43_13_1_Object.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#object-oriented-programming)
-- Inheritance 
+- [Inheritance](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/43_13_1_Object.js#L64)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#inheritance)
