@@ -112,4 +112,5 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#object-oriented-programming)
 - [Inheritance](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/43_13_1_Object.js#L64)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#inheritance)
-- Object Create
+- [Object Create](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/44_13_2_Create_Object.js)
+- ProtoTypal Inheritance
