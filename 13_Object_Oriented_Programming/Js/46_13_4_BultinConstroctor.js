@@ -41,7 +41,7 @@ String.prototype.isJavad = function(){//new string method add.
 }
 
 let arry = ["Barca","Bartos","Boracina"]
-Array.prototype.remove=function(name){ // new array method add
+Array.prototype.remove = /* Array da bu method yaradilsa icra olacaq yarad;lan olsun */ Array.prototype.remove || function(name){ // new array method add
     let index = this.indexOf(name)
 
     if (index != null){

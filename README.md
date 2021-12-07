@@ -29,6 +29,11 @@
 - [Preveiw](https://codepen.io/Dr-MadWill/pen/eYGmLmz)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/41_12_11_Back_To_top.html)
 
+### Inheritance Usage
+> `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
+- Preveiw
+- Code Documantation
+
 ## Fayl strukturunun izahi
 ***
 - a_b_c_fayl.js
@@ -116,4 +121,5 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#objectcreate)
 - [ProtoTypal Inheritance](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/45_13_3_ProtoTypalConstroct.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#prototypal-inheritance)
-- Bult-in Constructor
+- [Bult-in Constructor](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/46_13_4_BultinConstroctor.js)
+- [Inheritance Usage]()
