@@ -1,7 +1,7 @@
 # Learning JavaScript
 ## My JavaScript App <a href="https://drmadwill.github.io/JavaScript/" target="blank"> <img src="https://i.postimg.cc/6Q7k4DHr/app.png" width="100" align="right" ></a>
 ***
-### To Do App <a href="https://codepen.io/Dr-MadWill/pen/eYEoZPe" target="blank"> <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="180" align="right" ></a>
+## To Do App <a href="https://codepen.io/Dr-MadWill/pen/eYEoZPe" target="blank"> <img src="https://i.postimg.cc/c4SZwbWw/list.png" width="180" align="right" ></a>
 > Bu **app**-də listə itemləri əlavə edə bilirik və tək-tək və ya hamsı silə bilirik. Yazılan _data_-lar `localStorage`-ə yazılır. Yəni browser söndürülmədiyi müdətdə _data_-lar saxlanır, _reload_ edilsə belə.
 - [Preview](https://codepen.io/Dr-MadWill/pen/eYEoZPe)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#todo-list-app)
@@ -9,7 +9,7 @@
     - `localStorage` istifadə 
     - _RemoveElement_-dən isfadə
     - _AddElement_-dən istfadə
-### Slider App <a href="https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010" target="blank"> <img src="https://i.postimg.cc/2yWNp4fs/slid.png" width="180" align="right" ></a>
+## Slider App <a href="https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010" target="blank"> <img src="https://i.postimg.cc/2yWNp4fs/slid.png" width="180" align="right" ></a>
 > Sadəcə _JavaScript_-dən istfadə edərək sadə _Slider_ yazmağa çalışdım.Burda _data_ olaraq  göstərilən [`data`](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L2) obyecti _DataBases_-dən gələn məlumatları göstərir._Slider_-da default olaraq rəsimləri ardıcıl göstərir. Tələbdən aslı olarq [_random_ etmək](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L44) olar. _Controller_-lərin üzərinə gələn zaman [_Slider_ dayanır](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/Js/30_11_4_Slider_Duration.js#L53).   
 - [Preview](https://codepen.io/Dr-MadWill/pen/QWMPErQ?editors=0010)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript#slider-app-1)
@@ -17,19 +17,19 @@
     - `setInterval`-dan istfadə edilib.
     - `clearInterval`-dan istfadə edilib.
     - _radom_ xususiyyəti əlavə edib.
-### Form Validation App <a href="https://codepen.io/Dr-MadWill/pen/MWEYBGg" target="blank"> <img src="https://i.postimg.cc/dVh6TpqG/validation-modified.png" width="180" align="right" ></a>
+## Form Validation App <a href="https://codepen.io/Dr-MadWill/pen/MWEYBGg" target="blank"> <img src="https://i.postimg.cc/dVh6TpqG/validation-modified.png" width="180" align="right" ></a>
 > Validation çox zaman hazır kod blokları və ya  _Packages_-dən istifadə edilir. Burada məqsəd hazır kod bloklarında istifadə etmədən öz şərtlərmizi qoyaraq bu hadisəni necə sadə yolla həyata keçrə biləcəyimizi yazmaqdır.
 - [Preveiw](https://codepen.io/Dr-MadWill/pen/MWEYBGg)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/42_12_11_Form_Validation.html)
 - **App**-ın əsas xususiyyətləri:
     - _JQuery_-dən istifadə edilib.
 
-### Back To Top App <a href="https://codepen.io/Dr-MadWill/pen/eYGmLmz" target="_blank"> <img src="https://i.postimg.cc/LsnnLxVP/back-to-top-arrow-sign-icon-scroll-up-symbol-vector-4029487-modified.png" width="180" align="right" ></a>
+## Back To Top App <a href="https://codepen.io/Dr-MadWill/pen/eYGmLmz" target="_blank"> <img src="https://i.postimg.cc/LsnnLxVP/back-to-top-arrow-sign-icon-scroll-up-symbol-vector-4029487-modified.png" width="180" align="right" ></a>
 > _JQuery_ istifadə edərək sadə **Back To Top App** gəliştirməyə çalişdim.
 - [Preveiw](https://codepen.io/Dr-MadWill/pen/eYGmLmz)
 - [Code Documatation](https://github.com/DrMadWill/JavaScript/blob/main/12_JQery/41_12_11_Back_To_top.html)
 
-### Inheritance Usage
+## Inheritance Usage
 > `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
 - Preveiw
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
@@ -129,4 +129,5 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#immediate-function)
 - [Function that return function](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/50_13_8_Function_return_Function.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#function-that-return-function)
-    
+- [Setter Getter]()
+    - [My Documantation]()

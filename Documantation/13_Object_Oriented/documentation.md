@@ -49,3 +49,10 @@ Burada bizə `Object.create()` methodu köməyimizə gəlir.
 ### Function that return function
 ***
 > Bir funksiyadan return dəyər funksiya göndərə bilərik.
+
+
+### Encapsulation
+***
+> Obyejtləri qorumaq üçün **Encapsulation**dan istidfadə edirik. 
+- `set()` methodu yazmaq üçün
+- `get()` methodu oxumaq üçündür.
