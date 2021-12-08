@@ -126,4 +126,4 @@
 - [CallBack Function](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/48_13_6_CallBack_Function.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#callback-function)
 
-- [Immediate Function]
+- [Immediate Function](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#immediate-function)
