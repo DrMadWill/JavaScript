@@ -131,3 +131,5 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#function-that-return-function)
 - [Setter Getter](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/51_13_9_Setter_Getter.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#encapsulation)
+- [Call,Apply and Bind Function](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/52_13_10_Call_Applay_Bind_Funciio.js)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#call-apply-and-bind-function)
