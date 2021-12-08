@@ -133,4 +133,4 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#encapsulation)
 - [Call,Apply and Bind Function](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/52_13_10_Call_Applay_Bind_Funciio.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#call-apply-and-bind-function)
-- [Error Handling]()
+- [Error Handling](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/53_13_11_Error_Handling.js)
