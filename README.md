@@ -56,7 +56,6 @@
     - _c_ Dersin sırası
 
 ##  My Research in JavaScript 
-***
 ### Variables
 ***
 - [Variables](https://github.com/DrMadWill/JavaScript/blob/main/1_Variables/JavaScript/1_1_1_variable_script.js)
@@ -165,3 +164,8 @@
 ### Quiz App
 ***
 - [Quiz App](https://github.com/DrMadWill/JavaScript/tree/main/14_Quiz_App)
+
+
+### ES6+
+***
+- Arrow Function
