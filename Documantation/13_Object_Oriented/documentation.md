@@ -56,3 +56,8 @@ Burada bizə `Object.create()` methodu köməyimizə gəlir.
 > Obyejtləri qorumaq üçün **Encapsulation**dan istidfadə edirik. 
 - `set()` methodu yazmaq üçün
 - `get()` methodu oxumaq üçündür.
+
+
+### Call ,Apply and Bind Function
+***
+> call methodu vastəsi ilə classın constractorunu çağəra bilir. Call və Apply eyni funksiyanı yerinə yetirir sadəcə **prametr** qəbul edrkən Call prametirləri vergüllərlə ayırır,Apply prametrirləri **array** olaraq  əbul edir.Bind isə həmin funksiyanı özəlləşdirərək bizə qatarırır.
