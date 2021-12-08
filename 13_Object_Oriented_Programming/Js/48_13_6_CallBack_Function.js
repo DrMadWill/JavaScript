@@ -21,7 +21,7 @@
 // // Dont use This Exmample
 // for (let i=0; i<valu.length;i++){
 //     valu[i]=AddOne(valu[i])
-    
+
 // }
 
 // console.log(valu)
@@ -32,20 +32,35 @@
 
 let valu;
 
-function MultiplayByTwo(a,b,c,callBack){
-    
-    let arr=[]
-    for (let i=0; i<3;i++){
-        arr[i]=callBack(arguments[i]*2)
+function MultiplayByTwo(a, b, c, callBack) {
+
+    let arr = []
+
+    if (callBack && typeof callBack == "function") {
+
+
+        for (let i = 0; i < 3; i++) {
+
+            arr[i] = callBack(arguments[i] * 2)
+        }
+        return arr;
     }
-    return arr;
 }
 
 
-function AddOne(a){
-    return a+1;
+function AddOne(a) {
+    return a + 1;
 }
 
-valu=MultiplayByTwo(5,9,6,AddOne)
+function AddTwo(a) {
+    return a + 2
+}
+
+function AddThere(a) {
+    return a + 3
+}
+
+// We can use every method 
+valu = MultiplayByTwo(5, 9, 6, AddOne)
 
 console.log(valu)
