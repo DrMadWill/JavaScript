@@ -36,3 +36,7 @@
 ***
 > Child obyektdə `.cell()` methodundan istifadə edərək Parent obyektin `canstroctor`unu Child obyektə istifadə edə bilərik. Bu **inheitance**dı. Ancaq burada `prototype`lar digərinə göndərilmir.
 Burada bizə `Object.create()` methodu köməyimizə gəlir.
+
+### CallBack Function
+***
+> C# və digər dillərdə istifadə edtiymiz methodu methoda parametir kimi göndərmək burda çox asandır sadəcə methodun gedəcəyi yeri düzgün yazılmalıdır və isFunction kimi dəyərlər yoxlanmalıdır.

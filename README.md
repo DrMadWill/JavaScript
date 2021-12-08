@@ -32,7 +32,7 @@
 ### Inheritance Usage
 > `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
 - Preveiw
-- Code Documantation
+- [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
 
 ## Fayl strukturunun izahi
 ***
@@ -122,4 +122,5 @@
 - [ProtoTypal Inheritance](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/45_13_3_ProtoTypalConstroct.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/13_Object_Oriented/documentation.md#prototypal-inheritance)
 - [Bult-in Constructor](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/46_13_4_BultinConstroctor.js)
-- [Inheritance Usage]()
+- [Inheritance Usage](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
+- CallBack Function 
