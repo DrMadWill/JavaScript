@@ -34,7 +34,7 @@
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
 
 ## Quiz App <a href="https://codepen.io/Dr-MadWill/pen/GRMqNJQ"> <img src="https://i.postimg.cc/0ysTWs51/adsda-modified.png" width="180" align="right" ></a>
-> Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yenidən yükləyərək ordan əldə etmiyiz iformasiyanı `html` əks etmirdik.
+> Sualları `card`ın imərisiniə yerləşdirərək, cavabları butonlar şəkildə götərirk cavbalar doğru olduqda siz bir xal əldə etmiş olursuz. Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yenidən yükləyərək ordan əldə etmiyiz iformasiyanı `html` əks etirdik.
 - [Preveiw](https://codepen.io/Dr-MadWill/pen/GRMqNJQ)
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/tree/main/14_Quiz_App)
 - **App Usage** 
