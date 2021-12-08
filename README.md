@@ -31,8 +31,9 @@
 
 ## Inheritance Usage
 > `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
-- Preveiw
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
+
+
 
 ## Fayl strukturunun izahi
 ***
@@ -150,4 +151,4 @@
 
 ### Quiz App
 ***
-- Quiz App
+- [Quiz App](https://github.com/DrMadWill/JavaScript/tree/main/14_Quiz_App)

@@ -9,9 +9,9 @@ class Question {
         this.content = new String(content);
         if (choices[0] == null) {
             throw new Error("This Parametr Must Be Array")
-        } else {
-            this.choices = choices;
         }
+        this.choices = choices;
+
         this.answer = new String(answer);
         this
     }
@@ -41,7 +41,7 @@ let quest = [qes1, qes2, qes3]
 class Quiz {
     constructor(question) {
 
-        this.question = question; 
+        this.question = question;
         this.score = 0;
         this.questionOfIndex = 0
     }
@@ -55,25 +55,19 @@ Quiz.prototype.getQuestion = function () {
 
 
 // Quiz Finsh
-Quiz.prototype.isFinsh = function() {
+Quiz.prototype.isFinsh = function () {
     return this.question.length === this.questionOfIndex
 }
 
 // Quiz Guess
-Quiz.prototype.guess = function(answer) {
+Quiz.prototype.guess = function (answer) {
     let question = this.getQuestion()
-    console.log()
-    if (question.checkAnswer(answer)){
-        this.score=this.score+1
+    if (question.checkAnswer(answer)) {
+        this.score = this.score + 1
     }
     this.questionOfIndex++
 }
 
-
-let quiz_solition = new Quiz(quest)
-
-console.log()
-quiz_solition.guess("javascript")
 // console.log(qes1.checkAnswer("javascript"))
 
 
@@ -81,27 +75,68 @@ quiz_solition.guess("javascript")
 
 let quizs
 try {
-    quizs= new Quiz(quest)//start
+    quizs = new Quiz(quest) //start
 } catch (error) {
     console.log(error)
 }
 
-console.log(quizs.isFinsh())
+LoadQuestion()
 
-console.log(quizs.getQuestion())
-quizs.guess("Python")
+function LoadQuestion() {
+    if (quizs.isFinsh()) {
+        ShowResault();
+    } else {
 
-console.log(quizs.getQuestion())
-quizs.guess("Javascript")
+        $("#question").text(quizs.getQuestion().content)
+        let quest_Chois = quizs.getQuestion().choices
+        for (let index = 0; index < quest_Chois.length; index++) {
+            
+            $("#button").append(`<button id="btn${index}" class="btn m-3 btn-primary">${quest_Chois[index]}</button>`);
+            Guess("#btn" + index, quest_Chois[index])
 
-console.log(quizs.getQuestion())
-quizs.guess("Javascript")
+            
+        }
 
-console.log(quizs.score)
-console.log(quizs.isFinsh())
+        ShowProgress()
+
+    }
+    
+}
+
+function ShowProgress(){
+
+    let length =quizs.question.length
+    let number = quizs.questionOfIndex+1
+
+    document.querySelector("#progress").textContent = ` Question ${number}  of ${length} `
+}
+
+function Guess(id, text) {
+    let btn = document.querySelector(id);
+    btn.onclick= function(){
+        quizs.guess(text)
+        $("#button").html("")
+        LoadQuestion();  
+    }
+}
 
 
+function ShowResault() {
+    $("#question").html(`Your Score : ${quizs.score}`)
+    document.querySelector("#progress").textContent = ` Congratulations You Done`
+}
 
 
+// console.log(quizs.isFinsh())
 
+// console.log(quizs.getQuestion())
+// quizs.guess("Python")
 
+// console.log(quizs.getQuestion())
+// quizs.guess("Javascript")
+
+// console.log(quizs.getQuestion())
+// quizs.guess("Javascript")
+
+// console.log(quizs.score)
+// console.log(quizs.isFinsh())

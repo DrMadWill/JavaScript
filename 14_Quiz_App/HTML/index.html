@@ -8,22 +8,43 @@
 
     <!-- Bootstrap CSS v5.0.2 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style>
+      .card-header{
+        padding-top: 25px;
+      }
 
+      #question{
+        font-size: 26px;
+        font-weight: 600;
+        padding-top: 26px;
+        padding-bottom:15px;
+      }
+
+
+      #button .btn{
+        padding: 10px;
+      }
+      .card-footer{
+        text-align: center;
+        padding-top: 25px;
+      }
+    </style>
   </head>
-  <body>
+  <body class="container p-5">
 
-    <div class="card" style="width:18rem;">
-      <div class="card-header">
-        <h5 class="card-title">Card title</h5>
+    <div class="card w-100" style="width:18rem;">
+      <div class="card-header text-center">
+        <h5 class="card-title">Softwera Develop Question</h5>
       </div>
-      <div class="card-body">
+      <div class="card-body text-center">
         
-        <h6 class="card-subtitle mb-2 text-muted ">Card subtitle</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        b5
+        <h6 id="question" class="card-subtitle mb-2 text-muted text-center">Card subtitle</h6>
+        <div id="button">
+        </div>
+        
       </div>
-      <div class="card-footer">
-
+      <div class="card-footer"> 
+        <p id="progress">Lorem, ipsum.</p>
       </div>
     </div>
 
