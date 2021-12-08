@@ -23,6 +23,7 @@ Question.prototype.checkAnswer = function (answ) {
     return this.answer.trim().toLowerCase() === answer.trim().toLowerCase();
 }
 
+//** Question Load
 let qes1, qes2, qes3
 
 try {

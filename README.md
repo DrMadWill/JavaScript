@@ -33,7 +33,18 @@
 > `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
 
+## Quiz App
+> Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yenidən yükləyərək ordan əldə etmiyiz iformasiyanı `html` əks etmirdik.
+- **App Usage** 
+    - İlk olaraq sualları qeyd edərəkən sualları [qeyd edəcəmiyimiz dəyişənləri əvvəlcədən qeyd]() edirik.
+    - Qeyd etdiyimiz dəyişəni `try` blokunun [icərisinə yazırıq]() `Question()` konstraktorunu dolduruq
+    - `Question()` konstraktorunu Doldurulma qaydası 
+        - `Question("Question", ["Choice", "Choice", "Choice"], "Answer")`
+    - Son olraq bütün dəyişənləri [**Array**]()ın içərisinə toplayırıq
 
+- **App**-ın əsas xususiyyətləri:
+    - `score` bölmesi vastəsi ilə sonda cavablaya bildiymiz sualları neticəsni götərilir.
+    - _JQuery_-dən istifadə edilib.
 
 ## Fayl strukturunun izahi
 ***
