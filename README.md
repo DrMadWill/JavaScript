@@ -33,14 +33,16 @@
 > `prototype`,`Object.create()` və `.call()` istifadə edərək **inheritance** ifadə etməyə çalışdım.
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
 
-## Quiz App
+## Quiz App <a href="https://codepen.io/Dr-MadWill/pen/GRMqNJQ"> <img src="https://i.postimg.cc/0ysTWs51/adsda-modified.png" width="180" align="right" ></a>
 > Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yenidən yükləyərək ordan əldə etmiyiz iformasiyanı `html` əks etmirdik.
+- [Preveiw](https://codepen.io/Dr-MadWill/pen/GRMqNJQ)
+- [Code Documantation](https://github.com/DrMadWill/JavaScript/tree/main/14_Quiz_App)
 - **App Usage** 
-    - İlk olaraq sualları qeyd edərəkən sualları [qeyd edəcəmiyimiz dəyişənləri əvvəlcədən qeyd]() edirik.
-    - Qeyd etdiyimiz dəyişəni `try` blokunun [icərisinə yazırıq]() `Question()` konstraktorunu dolduruq
+    - İlk olaraq sualları qeyd edərəkən sualları [qeyd edəcəmiyimiz dəyişənləri əvvəlcədən qeyd](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L27) edirik.
+    - Qeyd etdiyimiz dəyişəni `try` blokunun [icərisinə yazırıq](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L29) `Question()` konstraktorunu dolduruq
     - `Question()` konstraktorunu Doldurulma qaydası 
         - `Question("Question", ["Choice", "Choice", "Choice"], "Answer")`
-    - Son olraq bütün dəyişənləri [**Array**]()ın içərisinə toplayırıq
+    - Son olraq bütün dəyişənləri [**Array**](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L37)ın içərisinə toplayırıq
 
 - **App**-ın əsas xususiyyətləri:
     - `score` bölmesi vastəsi ilə sonda cavablaya bildiymiz sualları neticəsni götərilir.
