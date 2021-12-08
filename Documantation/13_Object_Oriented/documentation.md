@@ -40,3 +40,8 @@ Burada bizə `Object.create()` methodu köməyimizə gəlir.
 ### CallBack Function
 ***
 > C# və digər dillərdə istifadə edtiymiz methodu methoda parametir kimi göndərmək burda çox asandır sadəcə methodun gedəcəyi yeri düzgün yazılmalıdır və isFunction kimi dəyərlər yoxlanmalıdır.
+
+
+### Immediate Function
+***
+> Əgər biz funksiyanın yalnızca birdəfə işlənməsini istəyiriksə **Immediate Function** istifadə edirik.

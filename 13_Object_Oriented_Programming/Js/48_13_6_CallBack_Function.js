@@ -64,3 +64,4 @@ function AddThere(a) {
 valu = MultiplayByTwo(5, 9, 6, AddOne)
 
 console.log(valu)
+
