@@ -45,3 +45,7 @@ Burada bizə `Object.create()` methodu köməyimizə gəlir.
 ### Immediate Function
 ***
 > Əgər biz funksiyanın yalnızca birdəfə işlənməsini istəyiriksə **Immediate Function** istifadə edirik.
+
+### Function that return function
+***
+> Bir funksiyadan return dəyər funksiya göndərə bilərik.
