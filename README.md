@@ -172,6 +172,5 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#map-function)
 - [`this` keyword](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/56_15_2_This.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#this-keyword)
-
-## Spread Operator
-> Funksiyanın birdən çox prametir istifadə etməsinə imkan tanıyır. `array`ları daha asan birləştirmək olur.
+- [Spread Operator](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/57_15_3_SparedOper.js)
+    - [My Documantation]()
