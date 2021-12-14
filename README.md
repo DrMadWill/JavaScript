@@ -168,4 +168,6 @@
 
 ### ES6+
 ***
-- Arrow Function
+- [Arrow Function and Map Method](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/55_15_1_ArrowFunc.js#L1)
+    - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#map-function)
+
