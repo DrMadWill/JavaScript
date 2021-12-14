@@ -175,4 +175,5 @@
 - [Spread Operator](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/57_15_3_SparedOper.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#spread-operator)
 - [Reset Parametrs](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/58_15_4_ResetParametrs.js)
-
+- [Destrcuting](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/59_15_5_Destricution.js#L1)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#destrcuting)
