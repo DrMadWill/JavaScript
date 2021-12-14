@@ -19,6 +19,4 @@ let numberBy5 = [4,5,6]
 let numberall = [...numberBy3,...numberBy5,7,8,9]
 
 numberBy3.push(...numberBy5)
-
-
 console.log(numberall)

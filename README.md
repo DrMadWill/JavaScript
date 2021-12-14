@@ -174,3 +174,4 @@
     - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#this-keyword)
 - [Spread Operator](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/57_15_3_SparedOper.js)
     - [My Documantation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#spread-operator)
+- [Reset Parametrs]()
