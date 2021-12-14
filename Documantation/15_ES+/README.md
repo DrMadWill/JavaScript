@@ -6,3 +6,7 @@
 
 ## Spread Operator
 > Funksiyanın birdən çox prametir istifadə etməsinə imkan tanıyır. `array`ları daha asan birləştirmək olur.
+
+## Destrcuting
+>  _value_-ları göndərmə _variable_ gödərmə işlərini asanlaşdırır.
+> `object`i təyin edərkən object daxililindəki variable ilə eyni olub.
