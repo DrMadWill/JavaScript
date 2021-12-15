@@ -178,3 +178,5 @@
 - [Destrcuting](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/59_15_5_Destricution.js#L1)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#destrcuting)
 - [Array.from() Using](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/60_15_6_NewUsingArray.js)
+- [Map Object](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/61_15_7_Map.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#map-object)
