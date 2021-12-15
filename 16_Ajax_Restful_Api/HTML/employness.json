@@ -1,0 +1,7 @@
+{
+    "employnes" :[
+        {"firstname" : "Mad","lastname":"Will","age":21,"retired":false},
+        {"firstname" : "Kagya","lastname":"Shrogane","age":18,"retired":false},
+        {"firstname" : "Kaan","lastname":"Yucel","age":25,"retired":false}
+    ]
+}
