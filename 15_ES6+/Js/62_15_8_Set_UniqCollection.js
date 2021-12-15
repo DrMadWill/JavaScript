@@ -56,4 +56,21 @@ for (let [key,value] of mySet.entries()){
 console.log(val)
 console.log(mySet)
 
+console.log(Array.from(mySet))
+let mySet2 = new Set([1,2,3,4])
 
+
+// intersection
+// let intersect = new Set(Array.from(mySet).filter(x=>mySet2.has(x)))
+// console.log(intersect)
+
+//or
+
+let intersect = new Set([...mySet].filter(x=>mySet2.has(x)))
+console.log(intersect)
+
+
+
+// diffrence
+let deffrence = new Set([...mySet].filter(x=>!mySet2.has(x)))
+console.log(deffrence)

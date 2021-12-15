@@ -1,6 +1,6 @@
 //* Array new usage ES+
 
-//from
+//**from
 
 let arr = Array.from("I like it")
 

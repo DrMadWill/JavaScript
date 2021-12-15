@@ -180,3 +180,5 @@
 - [Array.from() Using](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/60_15_6_NewUsingArray.js)
 - [Map Object](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/61_15_7_Map.js)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#map-object)
+- [Set Uniq Value Collection](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/62_15_8_Set_UniqCollection.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#set-objectcollection)
