@@ -10,3 +10,5 @@
 ## Destrcuting
 >  _value_-ları göndərmə _variable_ gödərmə işlərini asanlaşdırır.
 > `object`i təyin edərkən object daxililindəki variable ilə eyni olub.
+## Map Object
+> `Map` c# dakı dictionary ilə eyni mətiqdir. Daxilində `key` və `value` tutur. Bizə imkan veririr ki biz onları istədiymiz kimi tətin edək.
