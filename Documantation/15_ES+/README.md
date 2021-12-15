@@ -15,3 +15,5 @@
 ## Set Object(collection)
 > `Set` uniq _value_-ları toplamaq üçün collectiondır. `key` və `value`usu eyni dəyər tutur. Referance typlarada adressin eyniliyni yoxlayir, içərisindəki `value`ni deyil.
 
+## Sub Class
+>  `extends` keyword ilə  `class`larda **inheritance** məntiqi işlənir. `super` vastəsi ilə **base** `class`ın castorcturuna məlumatları göndəririk.
