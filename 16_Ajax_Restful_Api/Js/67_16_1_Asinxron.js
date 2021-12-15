@@ -1,22 +1,22 @@
 // Asynchronous
 
 
-// const first = () =>{
-//     console.log("First Hello My World")
-//     second()
-// }
+const first1 = () =>{
+    console.log("First Hello My World")
+    second()
+}
 
-// const second = () =>{
-//     console.log("second Hello My World")
-//     third() 
-// }
+const second1 = () =>{
+    console.log("second Hello My World")
+    third() 
+}
 
 
-// const third = () =>{
-//     console.log("third Hello My World")
-// }
+const third1 = () =>{
+    console.log("third Hello My World")
+}
 
-// first()
+first1()
 
 // * Outline
 
