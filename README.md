@@ -182,3 +182,4 @@
     - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#map-object)
 - [Set Uniq Value Collection](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/62_15_8_Set_UniqCollection.js)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#set-objectcollection)
+- [Class]()
