@@ -183,3 +183,5 @@
 - [Set Uniq Value Collection](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/62_15_8_Set_UniqCollection.js)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/tree/main/Documantation/15_ES%2B#set-objectcollection)
 - [Class](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/63_15_9_Class.js)
+- [Static](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/64_15_10_Stati_Methods.js)
+- [Sub Classes](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/65_15_11_SubClass.js)
