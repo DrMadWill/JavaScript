@@ -40,7 +40,6 @@ $(document).ready(function () {
     function loadEmployee() {
         const xhr = new XMLHttpRequest();
         xhr.open("GET", "employness.json", true)
-
         xhr.onload = function () {
             if (this.status === 200) {
                 // console.log(this.responseText)
@@ -64,28 +63,31 @@ $(document).ready(function () {
 function ShowData(data, lengt) {
     let item;
     $("#employees tbody").html("")
-    for (let i=0; i < lengt; i++) {
+    
+    setTimeout(function(){
+        for (let i=0; i < lengt; i++) {
 
-        item = data[i]
-        // console.log(item)
-        
-        let content = `
-        <tr>
-            <th>
-                ${item.firstname}
-            </th>
-            <th>
-                ${item.lastname}
-            </th>
-            <th>
-                ${item.age}
-            </th>
-            <th>
-                ${item.retired}
-            </th>
-        </tr>
-        `
-        $("#employees tbody").append(content);
+            item = data[i]
+            // console.log(item)
+            
+            let content = `
+            <tr>
+                <th>
+                    ${item.firstname}
+                </th>
+                <th>
+                    ${item.lastname}
+                </th>
+                <th>
+                    ${item.age}
+                </th>
+                <th>
+                    ${item.retired}
+                </th>
+            </tr>
+            `
+            $("#employees tbody").append(content);
 
-    }
+        }
+    },500)
 }
