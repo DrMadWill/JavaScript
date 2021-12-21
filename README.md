@@ -195,3 +195,4 @@
 - [Create JSON](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/HTML/employness.json)
 - [Use JSON](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/69_16_3_Use_JSON.js)
 - [HTTP GET](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/70_16_4_HTTP_GET.js)
+- [HTTP POST](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/71_16_5_HTTP_POST.js)
