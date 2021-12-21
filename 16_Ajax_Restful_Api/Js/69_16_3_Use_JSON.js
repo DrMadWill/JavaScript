@@ -1,7 +1,6 @@
 document.getElementById('here').innerHTML = `
 <div class="container">
 <div class="row">
-    
     <div id="employees" class="col mt-3">
         <table class="table table-bordered table-striped">
             <thead class="text-center" >
