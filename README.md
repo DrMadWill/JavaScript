@@ -186,7 +186,7 @@
 - [Static](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/64_15_10_Stati_Methods.js)
 - [Sub Classes](https://github.com/DrMadWill/JavaScript/blob/main/15_ES6%2B/Js/65_15_11_SubClass.js)
 
-### ES6+
+### AJAX and Restful Api
 ***
 - [Asynchronous](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/67_16_1_Asinxron.js)
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/16_Asynchronous/documantation.md#asinxiron-sistem)
@@ -194,4 +194,4 @@
     - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/16_Asynchronous/documantation.md#xhr-object)
 - [Create JSON](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/HTML/employness.json)
 - [Use JSON](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/69_16_3_Use_JSON.js)
-- [HTTP GET]()
+- [HTTP GET](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/70_16_4_HTTP_GET.js)
