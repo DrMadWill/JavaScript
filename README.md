@@ -198,5 +198,8 @@
 - [AsyncJavaScript](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/72_16_6_AsyncJavaScript.js)
 - [Promise](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/73_16_7_Promise.js)
 - [Promise Using](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/74_16_8_Promise_using.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/16_Asynchronous/documantation.md#promise)
 - [Fetch Api](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/75_16_9_Fetch_Api.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/16_Asynchronous/documantation.md#fetch-api) 
+- [Async and Await](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/76_16_10_Asinc_and_Await.js)
 
