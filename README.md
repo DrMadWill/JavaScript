@@ -195,6 +195,8 @@
 - [Use JSON](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/69_16_3_Use_JSON.js)
 - [HTTP GET](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/70_16_4_HTTP_GET.js)
 - [HTTP POST](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/71_16_5_HTTP_POST.js)
-- [AsyncJavaScript]()
-- [Promis]()
+- [AsyncJavaScript](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/72_16_6_AsyncJavaScript.js)
+- [Promise](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/73_16_7_Promise.js)
+- [Promise Using](https://github.com/DrMadWill/JavaScript/blob/main/16_Ajax_Restful_Api/Js/74_16_8_Promise_using.js)
+
 
