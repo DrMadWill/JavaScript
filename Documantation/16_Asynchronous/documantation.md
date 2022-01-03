@@ -12,3 +12,11 @@
 - 200 => OK
 - 403 => Forbidden
 - 404 => Not Found
+
+## Promise
+> `Callback` funksiyalarin asanlaşdırlımış versiyasıdır. Asinxron olaraq göndərilən məlumati sıralamaq ehtiyacı yaranır. Bu ehtiyacin ödənməsi üçün öncələr `callback` funksiyalarindan istifadə edirdilər sonra `Promise` istifadə etdilər. Parametr göndərərək hadisələri sıralaya bilirik.
+
+## Fetch Api
+> Bizi bir XHR obyekti yaratmaqdan bizi xilas edən və  sonda bizə `Promise` obyekti döndürən obyektdir. `fetch()` methodunun daxilinə gödərilən location və data vastəsi ilə ya post ya da get edib nəticələrini `.then()` də yaxalaya bilərik.
+
+
