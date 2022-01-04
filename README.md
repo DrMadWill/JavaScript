@@ -34,7 +34,7 @@
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/blob/main/13_Object_Oriented_Programming/Js/47_13_5_InheritanceUsage.js)
 
 ## Quiz App <a href="https://codepen.io/Dr-MadWill/pen/GRMqNJQ"> <img src="https://i.postimg.cc/0ysTWs51/adsda-modified.png" width="180" align="right" ></a>
-> Sualları `card`ın içərisiniə yerləşdirərək, cavabları butonlar şəkildə götərirk cavbalar doğru olduqda siz bir xal əldə etmiş olursuz. Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yükləyərək ordan əldə etmiyiz iformasiyanı `html` əks etirdik.
+> Sualları `card`ın içərisiniə yerləşdirərək, cavabları butonlar şəkildə götərirk cavbalar doğru olduqda siz bir xal əldə etmiş olursuz. Hazırlamış saulları [`Question Load`](https://github.com/DrMadWill/JavaScript/blob/main/14_Quiz_App/Js/app.js#L26) bölmesində yükləyərək ordan əldə etdiyimiz iformasiyanı `html` əks etirdik.
 - [Preveiw](https://codepen.io/Dr-MadWill/pen/GRMqNJQ)
 - [Code Documantation](https://github.com/DrMadWill/JavaScript/tree/main/14_Quiz_App)
 - **App Usage** 
@@ -47,6 +47,16 @@
 - **App**-ın əsas xususiyyətləri:
     - `score` bölmesi vastəsi ilə sonda cavablaya bildiymiz sualları neticəsni götərilir.
     - _JQuery_-dən istifadə edilib.
+
+## Profile Search (Restful Api,Async an Await)<a href="https://codepen.io/Dr-MadWill/pen/RwLyybB?editors=1010"> <img src="https://i.postimg.cc/HW4RXJgt/723894.png" width="180" align="right" ></a>
+> `https://jsonplaceholder.typicode.com/users` `Api` üzərindən Profil sorğusu aparılır. Sorğu :
+> - `username`lər üzrə aparılır
+> - Ajax metodologiyasından istifadə edilib.
+> - Hər hanxi bir axatarış üçün yuxarıda qoyduğum link daxildəki uyğun `username`dən istifadə etməlisiz.
+- [Preveiw](https://codepen.io/Dr-MadWill/pen/RwLyybB?editors=1010)
+- [Code Documatation](https://github.com/DrMadWill/JavaScript/tree/main/17_Acount_Search_App)
+
+
 
 ## Fayl strukturunun izahi
 ***
