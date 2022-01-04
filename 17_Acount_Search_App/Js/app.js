@@ -51,11 +51,6 @@ $(document).ready(function () {
                 }
             }).catch(error => ui.AlertInfo(info))
         }
-
     })
-
-
-
-
 });
 
