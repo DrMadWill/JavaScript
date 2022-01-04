@@ -11,8 +11,8 @@ class UI{
             <div class="card">
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-md-3">
-                            <img src="https://picsum.photos/200/300" class="img-thumbnail" alt="">  
+                        <div class="col-md-3 ">
+                            <img src="https://picsum.photos/200/300" class="img-thumbnail m-auto" alt="">  
                         </div>
 
                         <div class="col-md-9">
@@ -45,6 +45,10 @@ class UI{
                                     Website : ${profile.website}
                                 </li>
                             </ul>
+                            <h4 class="mt-3"> To Do List</h4>
+                            <ul id="todo" class="list-group">
+                            
+                            </ul>
                         </div>
 
                     </div>
@@ -62,6 +66,32 @@ class UI{
         this.alert.innerHTML=""
         this.profileContainer.innerHTML=""
     }
+
+    ShowToDo(info){
+
+        let html=""
+        
+        info.forEach((element)=>{
+            if(element.completed){
+                html+=`
+                <li class="list-group-item bg-success">
+                    ${element.title}
+                </li>
+                `
+            }else{
+                html+=`
+                <li class="list-group-item bg-secondary">
+                    ${element.title}
+                </li>
+                `
+            }
+        })
+
+        this.profileContainer.querySelector('#todo').innerHTML=html;
+
+
+    }
+
 }
 
 

@@ -44,14 +44,14 @@ $(document).ready(function () {
             profile.getProfile(info).then(res => {
                 if (res.length === 0){
                     ui.AlertInfo(info)
+                    console.log(info)
                 }else{
-                    ui.ShowProfile(res[0]);
+                    ui.ShowProfile(res.profile[0]);
+                    ui.ShowToDo(res.todo)
                 }
-            })
+            }).catch(error => ui.AlertInfo(info))
         }
 
-        
-        // console.log(info)
     })
 
 
