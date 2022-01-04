@@ -1,2 +1,4 @@
 ## JavaScript Module
 > Istənilən `app` da biz həmin `app` yazılamsı zaman sadələşdırməyə getməyə çalışırıq. Bu münasibətə əsasən məsələni daha da asanlaşdırmaq üçün `app` modullara bölərək `app`in icrasını həmin modullar vastəsi ilə həyata keçirə bilərik. Bu bizə onu daha yaxşı icrata keçirməyə imkan veririr və gələcəkdə ola biləcək gəliştirmələr zamanı bütün `app`i deyildə sadəcə bir modul üzərində dəişiklik edərək həmin gəliştirməni irəllədə bilərik.
+### Module Extenting
+> Modullarin əsas xususiyyətlərinə toxunmadan yenisini əlavə edirik. Bu bizə modululun əsas kefiyyətlərini qoruyaraq gəliştirməyə imkan tanıyır.
