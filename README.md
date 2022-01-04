@@ -215,3 +215,6 @@
 ### Module Pattern
 ***
 - [Module Pattern](https://github.com/DrMadWill/JavaScript/blob/main/18_JavaScript_Modul_Pattern/JS/77_18_1_JsModul.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/18_JavaScript_Modul_Pattern/documantation.md#javascript-module)
+- [Module Pattern Using](https://github.com/DrMadWill/JavaScript/blob/main/18_JavaScript_Modul_Pattern/JS/78_18_2_Module_Pattern_Using.js)
+    - [My Documatation](https://github.com/DrMadWill/JavaScript/blob/main/Documantation/18_JavaScript_Modul_Pattern/documantation.md#module-extenting)
