@@ -114,7 +114,7 @@
 - [Add Item](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_2_Add_List/23_9_2_Add_List.js)
 - [Delete Item](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_3_Delet_item/24_10_4_delet_item.js)
 - [Load Item](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_4_LoadElement/25_10_5_delet_item.js)
-- [Using Storage](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_4_LoadElement/25_10_5_delet_item.js)
+- [Using Storage](https://github.com/DrMadWill/JavaScript/blob/main/10_ToDo_app/10_5_LocalStorage_using/26_10_6_Local_Storage_Using.js)
 ### Slider App
 ***
 - [Creating App Body](https://github.com/DrMadWill/JavaScript/blob/main/11_Slider_App/HTML/index.html)
